@@ -1,4 +1,7 @@
-# Instant Feedback Extention README
+# IFE 
+Выполнил Валуйский Михаил Игоревич (М33031)
+
+## Instant Feedback Extention README
 
 IFE это расширение для Visual Studio Code, написанное на языке TypeScript.
 
